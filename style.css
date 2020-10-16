@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.start {
+  color: black;
+  font-family: sans-serif;
+  font-size: 60px;
+}
